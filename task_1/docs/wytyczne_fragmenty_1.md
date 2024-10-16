@@ -1,4 +1,4 @@
-# Wytyczne do anotacji fragmentów tekstu (druga iteracja)
+# Wytyczne do anotacji fragmentów tekstu (pierwsza iteracja)
 
 * **wzmocnienie wydźwięku** - zaznaczamy słowo wzmacniające wydźwięk, oraz opcjonalne słowo, którego ten wydźwięk dotyczy (o ile znajduje się w bezpośrednim sąsiedztwie). Przykładowo:
     * Stopniowanie przymiotników:
