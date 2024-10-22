@@ -1,2 +1,4 @@
 *.pdf
 .venv/
+*.bin
+*.gz
