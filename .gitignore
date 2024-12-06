@@ -5,3 +5,4 @@
 task_2/models
 task_2/results
 task_2/results_gpt
+.env
