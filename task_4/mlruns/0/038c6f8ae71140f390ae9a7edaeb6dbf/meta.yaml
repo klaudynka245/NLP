@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/kjani/nlp/mlruns/0/038c6f8ae71140f390ae9a7edaeb6dbf/artifacts
+end_time: 1736687637030
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 038c6f8ae71140f390ae9a7edaeb6dbf
+run_name: ./results
+run_uuid: 038c6f8ae71140f390ae9a7edaeb6dbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736687028997
+status: 3
+tags: []
+user_id: kjani
